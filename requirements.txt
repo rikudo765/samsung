@@ -3,7 +3,7 @@ cycler==0.10.0
 enum34==1.1.6
 kiwisolver==1.1.0
 matplotlib==2.2.4
-numpy==1.16.6
+numpy==1.22.0
 pandas==0.24.2
 pkg-resources==0.0.0
 pynput==1.6.5
